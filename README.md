@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elsewedy</h1>
-<h3 align="center">A Mobile application developer from Egypt</h3>
+<h3 align="center">A Mobile application developer </h3>
 
 - 🌱 I’m currently learning **Mobile application development**
 
